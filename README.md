@@ -1,13 +1,13 @@
 ## Greetings! 👋
 
-I'm a student passionate about **DevOps** and **Data Engineering**! 🚀  <br>
+I'm a student looking for opportunities related to **DevOps** and **Data Engineering**! 🚀  <br>
 <br>
 I enjoy automating infrastructure, building scalable  systems, and solving complex data problems. <br>
 <br>
 🔭 I’m currently working on:
 - Automation Tools (Ansible)
 - Cloud Infrastructure (Terraform)
-- Artificial Intelligence (MLops)
+- Artificial Intelligence 
 - Data Transformation Pipeline (dbt, kafka)
 <!--
 **markov-ngz/markov-ngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
