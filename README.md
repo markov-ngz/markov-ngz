@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-I'm a student looking for opportunities related to **DevOps** and **Data Engineering**! 🚀  <br>
+I'm a student looking for opportunities related to **Data Engineering** and **DevOps**! 🚀  <br>
 <br>
 I enjoy automating infrastructure, building scalable  systems, and solving complex data problems. <br>
 <br>
