@@ -5,10 +5,11 @@ I'm a student looking for opportunities related to **Data Engineering** and **De
 I enjoy automating infrastructure, building scalable  systems, and solving complex data problems. <br>
 <br>
 🔭 I’m currently working on:
-- Automation Tools (Ansible)
 - Cloud Infrastructure (Terraform)
-- Artificial Intelligence 
 - Data Transformation Pipeline (dbt, kafka)
+- Automation Tools (Ansible)
+- Artificial Intelligence 
+
 <!--
 **markov-ngz/markov-ngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
