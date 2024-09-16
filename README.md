@@ -5,9 +5,8 @@ I'm a student looking for opportunities related to **Data Engineering** and **De
 I enjoy automating infrastructure, building scalable  systems, and solving complex data problems. <br>
 <br>
 🔭 I’m currently working on:
-- Cloud Infrastructure (Terraform)
+- Automation Tools (Ansible, Terraform)
 - Data Transformation Pipeline (dbt, kafka)
-- Automation Tools (Ansible)
 - Artificial Intelligence 
 
 <!--
