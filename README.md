@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-I'm a student looking for opportunities related to **Data Engineering** and **DevOps**! 🚀  <br>
+Personal account with repositories related to **Data Engineering** and **DevOps**! 🚀  <br>
 <br>
 I enjoy automating infrastructure, building scalable  systems, and solving complex data problems. <br>
 <br>
@@ -9,6 +9,7 @@ I enjoy automating infrastructure, building scalable  systems, and solving compl
 - Data Transformation Pipeline (dbt, kafka)
 - Artificial Intelligence 
 
+PS: Open to any opportunities
 <!--
 **markov-ngz/markov-ngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
