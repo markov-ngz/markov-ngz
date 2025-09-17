@@ -2,7 +2,8 @@
 
 Glad to see you here! 
 
-Currently a **work-study student data engineer**, i'm passionate about building robust data pipelines. 
+Currently a **work-study student data engineer**. <br>
+I like data processing and infrastructure automation, but i have so much to learn. 
 
 Feel free to check my projects below ⬇️ ! 
 
