@@ -3,7 +3,7 @@
 Glad to see you here! 
 
 Currently a **work-study student data engineer**. <br>
-I like data processing and infrastructure automation, but i have so much to learn. 
+I like data processing and infrastructure automation. 
 
 Feel free to check my projects below ⬇️ ! 
 
