@@ -10,6 +10,7 @@ Feel free to check my projects below ⬇️ !
 ---------
 
 ## 📆 2025
+- [Jinja Auto - desktop application to generate files from jinja template and use excel data](https://github.com/markov-ngz/jinja-auto)
 - [Azure Container Apps Deployment Guide with Application Gateway, CosmosDB , blue/green deployment pipeline , KeyVault and Log based alerts](https://medium.com/@markov-ngz/azure-container-apps-deployment-guide-with-applicationgateway-cosmosdb-blue-green-deployment-1f1373d0a28a)
 - [Fivetran & Snowflake: The Mechanics Under the Hood](https://medium.com/@markov-ngz/how-does-fivetran-import-data-into-a-snowflake-database-996d31fd3f9f) ⭐
 - [SQL basics : Practical Gaps and Islands problem resolution](https://medium.com/@markov-ngz/sql-practical-gaps-and-islands-problem-resolution-ebec37705f7a)
