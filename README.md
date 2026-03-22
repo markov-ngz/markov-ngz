@@ -8,6 +8,9 @@ I like data processing and infrastructure automation.
 Feel free to check my projects below ⬇️ ! 
 
 ---------
+## 📆 2026
+- [Asphalt - Real-Time vehicle position data processing pipeline with flink, kafka and deployed on k8s](https://markov-ngz.github.io/Asphalt/) ⭐
+---------
 
 ## 📆 2025
 - [Jinja Auto - desktop application to generate files from jinja template and use excel data](https://github.com/markov-ngz/jinja-auto)
