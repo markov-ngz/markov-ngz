@@ -9,7 +9,7 @@ Feel free to check my projects below ⬇️ !
 
 ---------
 ## 📆 2026
-- [Asphalt - Real-Time vehicle position data processing pipeline with flink, kafka and deployed on k8s](https://markov-ngz.github.io/Asphalt/) ⭐
+- [Asphalt - Real-Time vehicle position data processing pipeline with flink, kafka and deployed on k8s](https://github.com/markov-ngz/Asphalt/) ⭐
 ---------
 
 ## 📆 2025
