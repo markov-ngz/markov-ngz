@@ -9,6 +9,7 @@ Feel free to check my projects below ⬇️ !
 
 ---------
 ## 📆 2026
+- [Towards a Streaming Lakehouse - Apache Fluss, Iceberg with Polaris catalog, Flink, Spark and everything on K8s](https://github.com/markov-ngz/towards_streaming_lakehouse) ⭐
 - [Asphalt - Real-Time vehicle position data processing pipeline with flink, kafka and deployed on k8s](https://github.com/markov-ngz/Asphalt/) ⭐
 ---------
 
