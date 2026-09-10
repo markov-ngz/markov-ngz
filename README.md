@@ -9,6 +9,9 @@ Feel free to check my projects below ⬇️ !
 
 ---------
 ## 📆 2026
+- [CloudConfidence - data pipeline to evaluate weather forecast errors](https://github.com/markov-ngz/cloudconfidence)
+- [Meteofrance Java SDK - library to use meteofrance open data api](https://github.com/markov-ngz/meteofrance-java-sdk) 
+- [Spark Model - library to modelize transformation & add a lineage with Apache Spark](https://github.com/markov-ngz/spark-model)
 - [Towards a Streaming Lakehouse - Apache Fluss, Iceberg with Polaris catalog, Flink, Spark and everything on K8s](https://github.com/markov-ngz/towards_streaming_lakehouse) ⭐
 - [Asphalt - Real-Time vehicle position data processing pipeline with flink, kafka and deployed on k8s](https://github.com/markov-ngz/Asphalt/) ⭐
 ---------
