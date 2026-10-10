@@ -9,6 +9,7 @@ Feel free to check my projects below ⬇️ !
 
 ---------
 ## 📆 2026
+- [Airflow CICD with ArgoCD - Complete workflow automation with a demo video](https://github.com/markov-ngz/devsecops-airflow-argocd) ⭐
 - [CloudConfidence - data pipeline to evaluate weather forecast errors](https://github.com/markov-ngz/cloudconfidence)
 - [Meteofrance Java SDK - library to use meteofrance open data api](https://github.com/markov-ngz/meteofrance-java-sdk) 
 - [Spark Model - library to modelize transformation & add a lineage with Apache Spark](https://github.com/markov-ngz/spark-model)
