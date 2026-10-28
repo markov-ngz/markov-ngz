@@ -25,7 +25,7 @@ Feel free to check my projects below ⬇️ !
 - [Automatic blue green deployment for container apps](https://github.com/markov-ngz/az-containerapp-bluegreen-deploy) ⭐
 - [Java API to register Invoices from PDF](https://github.com/markov-ngz/invoice-reader)
 - [Github Repository Template to deploy a web application as service with a DNS with a github Actions CI/CD pipeline](https://github.com/markov-ngz/service-repository-template)
-- [ETL Pipeline to extract the questions from the famous radio quizz show "Le jeu des 1000 euros"](https://github.com/markov-ngz/ETL_1000euros)
+- [ETL Pipeline to extract the questions from the famous radio quizz show "Le jeu des 1000 euros"](https://github.com/markov-ngz/ETL-1000euros)
 ---------
 
 ## 📆 2024
