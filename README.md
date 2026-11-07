@@ -9,7 +9,7 @@ Feel free to check my projects below ⬇️ !
 
 ---------
 ## 📆 2026
-- [A Guide to Apache Fluss and Apache Doris to bridge Streaming and Analytics](https://github.com/markov-ngz/realtime-analytics-doris-fluss) ⭐
+- [Apache Fluss and Apache Doris to bridge Streaming and Analytics](https://github.com/markov-ngz/realtime-analytics-doris-fluss) ⭐
 - [Airflow CICD with ArgoCD - Complete workflow automation with a demo video](https://github.com/markov-ngz/devsecops-airflow-argocd) ⭐
 - [CloudConfidence - data pipeline to evaluate weather forecast errors](https://github.com/markov-ngz/cloudconfidence)
 - [Meteofrance Java SDK - library to use meteofrance open data api](https://github.com/markov-ngz/meteofrance-java-sdk) 
